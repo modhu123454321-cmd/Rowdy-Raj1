@@ -1,8 +1,0 @@
-{
-  "id": "@MOD_ID@",
-  "name": "@MOD_NAME@",
-  "author": "@MOD_AUTHOR@",
-  "version": "@MOD_VERSION@",
-  "minecraftVersions": @MOD_MINECRAFT_VERSIONS@,
-  "entry": "lib@MOD_LIBRARY_NAME@.so"
-}
